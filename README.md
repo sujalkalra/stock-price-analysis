@@ -155,3 +155,8 @@ You can expand this project by adding:
 ---
 
 This project will give you a solid foundation in stock price analysis while demonstrating the power of NumPy for handling large datasets and performing advanced numerical operations. Let me know if you need any help setting up or expanding on these features!
+
+
+
+## 8. components and tools:     
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
